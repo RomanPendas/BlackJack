@@ -1,8 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 public class BlackJack {
-    // This is a test.
-    // This is another test.
+
     static Scanner scnr = new Scanner(System.in);
         static Random rng = new Random();
             public static void main(String[] args) {
